@@ -1,5 +1,7 @@
 ---
 title: Learning Rust — Daily Log
+| [[day-02\|Day 02]] | Functions, Return Values & Expressions | `#til` `#rust` `#functions` `#expressions` `#return-values` |
+
 ---
 
 # My Rust Learning Journey
