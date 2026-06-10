@@ -15,6 +15,7 @@ A daily log of concepts, compiler fights, and breakthroughs as I learn Rust from
 | [[day-03\|Day 03]] | Control Flow: if, loop, while, for | `#til` `#control-flow` `#loops` `#conditionals` |
 | [[day-04\|Day 04]] | Ownership: The Core Mental Model | `#til` `#rust` `#ownership` `#memory` |
 | [[day-05\|Day 05]] | References & Borrowing | `#til` `#rust` `#ownership` `#references` |
+| [[day-06\|Day 06]] | The Slice Type | `#til` `#rust` `#slices` `#borrowing` |
 
 ---
 
