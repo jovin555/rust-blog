@@ -16,6 +16,7 @@ A daily log of concepts, compiler fights, and breakthroughs as I learn Rust from
 | [[day-04\|Day 04]] | Ownership: The Core Mental Model | `#til` `#rust` `#ownership` `#memory` |
 | [[day-05\|Day 05]] | References & Borrowing | `#til` `#rust` `#ownership` `#references` |
 | [[day-06\|Day 06]] | The Slice Type | `#til` `#rust` `#slices` `#borrowing` |
+| [[day-07\|Day 07]] | Structs: Defining & Instantiating | `#til` `#rust` `#structs` `#data-structures` |
 
 ---
 
