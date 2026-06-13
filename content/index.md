@@ -18,6 +18,7 @@ A daily log of concepts, compiler fights, and breakthroughs as I learn Rust from
 | [[day-06\|Day 06]] | The Slice Type | `#til` `#rust` `#slices` `#borrowing` |
 | [[day-07\|Day 07]] | Structs: Defining & Instantiating | `#til` `#rust` `#structs` `#data-structures` |
 | [[day-08\|Day 08]] | Methods on Structs | `#til` `#rust` `#structs` `#methods` `#impl` |
+| [[day-09\|Day 09]] | Enums & Pattern Matching with match | `#til` `#rust` `#enums` `#pattern-matching` `#control-flow` |
 
 ---
 
